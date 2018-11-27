@@ -1,0 +1,6 @@
+A B !D
+C !G D
+B C F
+!A !E !C
+G !A !B
+F E !D
