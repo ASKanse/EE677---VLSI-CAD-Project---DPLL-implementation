@@ -1,4 +1,4 @@
-------to run the code------
+------to run the code------</br>
 --> create a text file containing all the clauses of an expression
    --> each clause should be written in separate line
    --> leave a space of one between any to literals in the clause
